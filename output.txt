@@ -1,0 +1,57 @@
+true
+true
+true
+true
+true
+true
+true
+30 20 45 98 67 55 
+false
+true
+true
+false
+false
+false
+true
+30 *20 *45 98 67 55 
+30
+98
+4
+6
+true
+true
+true
+true
+true
+true
+30 20 *21 *45 *32 98 67 55 79 
+20
+98
+4
+9
+Error in Line: 12334dfsdfg
+Error in Line: Insert
+Error in Line: Insertdfgh
+Error in Line: Insert sdfdg
+Error in Line: Insert:dfgfg
+Error in Line: Insert:1f45h
+Error in insert: IllegalArgumentException raised. Invalid key. Valid set of keys is in the range of 1 - 99
+Error in insert: IllegalArgumentException raised. Invalid key. Valid set of keys is in the range of 1 - 99
+Error in insert: IllegalArgumentException raised. Invalid key. Valid set of keys is in the range of 1 - 99
+Error in Line: Delete
+Error in Line: Deletedfg
+Error in Line: Delete sgfdg
+Error in Line: Delete:dffgdf
+Error in Line: Delete:34fdg
+Error in delete: IllegalArgumentException raised. Invalid key. Valid set of keys is in the range of 1 - 99
+Error in delete: IllegalArgumentException raised. Invalid key. Valid set of keys is in the range of 1 - 99
+Error in delete: IllegalArgumentException raised. Invalid key. Valid set of keys is in the range of 1 - 99
+Error in Line: Contains
+Error in Line: Containsdfg
+Error in Line: Contains sgfdg
+Error in Line: Contains:dffgdf
+Error in Line: Contains:34fdg
+Error in contains: IllegalArgumentException raised. Invalid key. Valid set of keys is in the range of 1 - 99
+Error in contains: IllegalArgumentException raised. Invalid key. Valid set of keys is in the range of 1 - 99
+Error in contains: IllegalArgumentException raised. Invalid key. Valid set of keys is in the range of 1 - 99
+Error in Line: 
